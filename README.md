@@ -9,7 +9,7 @@ Utilizes road, electricity, and traffic data to propose ideal EV charging points
 🥇 Hackathon Champion
 Crowned winner of the TotalEnergies Uganda rEVolution Hackathon, beating 400+ applicants.
 
-💰 Awarded UGX 18.5M
+💰 Awarded UGX 3M
 Developed by Team ISBAT university team – recognized for innovation, feasibility, and impactful execution.
 
 🤝 Supported by
